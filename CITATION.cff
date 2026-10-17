@@ -12,11 +12,9 @@ authors:
   - family-names: Shu
     given-names: Yeqiang
     affiliation: "China-Sri Lanka Belt and Road Joint Laboratory on Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences, Guangzhou, China"
-    email: shuyeq@scsio.ac.cn
   - family-names: Wang
     given-names: Dongxiao
     affiliation: "School of Marine Sciences, Sun Yat-Sen University, and Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), Zhuhai, China"
-    email: dxwang@mail.sysu.edu.cn
 abstract: >-
   Source code, pretrained model, compact plotting-data caches, and figure-reproduction
   scripts associated with the manuscript "Intensifying global near-inertial wind work".
