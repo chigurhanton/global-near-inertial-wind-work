@@ -1,6 +1,6 @@
 # Intensifying global near-inertial wind work
 
-This Zenodo archive contains the source code, pretrained model, compact plotting-data caches, and figure-reproduction scripts associated with the manuscript **"Intensifying global near-inertial wind work."**
+This GitHub repository contains the source code, pretrained model, compact plotting-data caches, and figure-reproduction scripts associated with the manuscript **"Intensifying global near-inertial wind work."**
 
 The study combines a damped-slab dynamical model with a physics-informed deep-learning correction constrained by Global Drifter Program observations. The framework corrects systematic amplitude biases in reconstructed near-inertial currents while retaining the slab-model phase evolution, and is used to diagnose multidecadal changes in global near-inertial wind work over 1979–2025.
 
@@ -187,8 +187,8 @@ Version **1.0.0** is the initial archival release associated with the manuscript
 
 ## Citation
 
-When using this archive, please cite the Zenodo record DOI
-[**10.5281/zenodo.23437463**](https://doi.org/10.5281/zenodo.23437463)
+When using this repository, please cite the GitHub repository
+[**github.com/chigurhanton/global-near-inertial-wind-work**](https://github.com/chigurhanton/global-near-inertial-wind-work)
 and the associated paper once published.
 
 A machine-readable citation template is provided in `CITATION.cff`.

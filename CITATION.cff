@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software archive, please cite the Zenodo record and the associated paper."
+message: "If you use this software, please cite the GitHub repository and the associated paper."
 title: "Code and data for Intensifying global near-inertial wind work"
 type: software
 version: 1.0.0
-doi: 10.5281/zenodo.23437463
+repository-code: "https://github.com/chigurhanton/global-near-inertial-wind-work"
 license: BSD-3-Clause
 authors:
   - family-names: Ma
