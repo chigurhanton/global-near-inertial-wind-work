@@ -1,0 +1,27 @@
+# Core numerical/scientific stack
+numpy
+pandas
+scipy
+xarray
+
+# Plotting and mapping
+matplotlib
+cartopy
+seaborn
+Pillow
+
+# Statistics
+statsmodels
+
+# Scientific file formats / lazy arrays
+h5py
+netCDF4
+h5netcdf
+zarr
+dask
+
+# Deep learning
+torch
+
+# Utilities commonly used during training/inference
+tqdm

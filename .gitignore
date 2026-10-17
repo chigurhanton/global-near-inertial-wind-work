@@ -1,0 +1,30 @@
+# ---- Large source data (not redistributed; obtain separately, see README) ----
+data/mld_all_1979to2025.mat
+data/niw_power_input_1979_2025_Full.nc
+data/deeplearning_climmld_niw_power_input_1979_2025.nc
+data/global_wind_stress_ni_total_variance_1979_2025.nc
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+
+# ---- IDE / tooling ----
+.vscode/
+.idea/
+.workbuddy-ai/
+.codex/
+.agents/
+.aws/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Release archives ----
+*.zip

@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software archive, please cite the Zenodo record and the associated paper."
+title: "Code and data for Intensifying global near-inertial wind work"
+type: software
+version: 1.0.0
+doi: 10.5281/zenodo.23437463
+license: BSD-3-Clause
+authors:
+  - family-names: Ma
+    given-names: Yonggui
+    affiliation: "China-Sri Lanka Belt and Road Joint Laboratory on Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences, Guangzhou, China"
+  - family-names: Shu
+    given-names: Yeqiang
+    affiliation: "China-Sri Lanka Belt and Road Joint Laboratory on Tropical Oceanography, South China Sea Institute of Oceanology, Chinese Academy of Sciences, Guangzhou, China"
+    email: shuyeq@scsio.ac.cn
+  - family-names: Wang
+    given-names: Dongxiao
+    affiliation: "School of Marine Sciences, Sun Yat-Sen University, and Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), Zhuhai, China"
+    email: dxwang@mail.sysu.edu.cn
+abstract: >-
+  Source code, pretrained model, compact plotting-data caches, and figure-reproduction
+  scripts associated with the manuscript "Intensifying global near-inertial wind work".
+  The framework combines a damped-slab
+  dynamical model with a drifter-constrained physics-informed deep-learning correction
+  for global near-inertial current and wind-work estimation.
+keywords:
+  - near-inertial wind work
+  - near-inertial waves
+  - physics-informed deep learning
+  - AmpGainResNet
+  - surface drifters
+  - slab model
+  - ERA5
+  - ORAS5
+  - ocean energetics
